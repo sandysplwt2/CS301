@@ -1,0 +1,40 @@
+# Compiled Java classes
+*.class
+
+# JAR/WAR/EAR artifacts
+*.jar
+*.war
+*.ear
+
+# Build directories
+build/
+out/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux editor backups
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+*~
